@@ -2,7 +2,7 @@
 
 ## Summary
 
-This repository contains all of thte notes taken by [Peter Hashem](https://github.com/TheOriginalArab) for hte Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Peter Hashem](https://github.com/TheOriginalArab) for hte Lighthouse Labs Web Development Bootcamp.
 
 ## Table of Contents
 
